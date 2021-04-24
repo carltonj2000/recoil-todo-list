@@ -1,6 +1,6 @@
 # To Do List
 
-Original read follows this line and the original repo is
+Original readme follows this line and the original repo is
 [here](https://github.com/jacques-blom/recoil-todo-list).
 
 # 🦸‍♂️ Taskmaster
